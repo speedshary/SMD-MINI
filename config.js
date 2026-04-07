@@ -45,7 +45,7 @@ module.exports = {
 
     NEWSLETTER_JID:
         process.env.NEWSLETTER_JID ||
-        "120363424121925721@newsletter",
+        "120363175375282051@newsletter",
 
     MENU_IMG:
         process.env.MENU_IMG ||
