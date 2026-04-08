@@ -113,4 +113,4 @@ The developers are not responsible for any misuse of this bot.
 ---
 
 # ❤️ Credits
-**SMD-MINI** is proudly developed and maintained by **Team-Bandaheali**.
+**SMD-MINI** Is Proudly Developed And Maintained By **Team-Bandaheali**
