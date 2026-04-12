@@ -1,13 +1,13 @@
 /*
-   ✦ ✦ ✦   E D I T H - M D   ✦ ✦ ✦
+   ✦ ✦ ✦   S M D - M I N I   ✦ ✦ ✦
 
 ─────────────────────────────────────────────────────────────
-📛 Project   : Edith-MD
-👤 Creator   : Bandaheali
-🌐 GitHub    : https://github.com/Bandah-E-Ali
+📛 Project   : SMD-MiNi
+👤 Creator   : MRSHABAN
+🌐 GitHub    : https://github.com/iTx-Sarkar
 📱 Contact   : https://t.me/@bandaheali
-📢 Channel   : 
-🗓 Release   : 24 • November • 2025 | 02:00 PM
+📢 Channel   : https://whatsapp.com/channel/0029VaDaBJGJUM2jS0z59S3s
+🗓 Release   : 12 • Aprail • 2026 | 12:00 PM
 ─────────────────────────────────────────────────────────────
  
 //   ⭐ PROUDLY MADE IN PAKISTAN ⭐
