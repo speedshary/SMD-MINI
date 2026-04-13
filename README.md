@@ -76,7 +76,7 @@ It includes a plugin system, automation features, and a scalable bot architectur
 
 <p align="center">
   <!-- Deploy to Koyeb Button -->
-  <a href="https://app.koyeb.com/deploy?type=git&repository=github.com/iTx-Sarkar/SMD-MINI">
+  <a href="https://app.koyeb.com/deploy?name=smd-mini&type=git&repository=iTx-Sarkar%2FSMD-MINI&branch=main&builder=dockerfile&instance_type=free&regions=was&instances_min=0&autoscaling_sleep_idle_delay=3900&env%5BBOT_NAME%5D=SMD-MiNi&env%5BNEWSLETTER_JID%5D=&env%5BPREFIX%5D=.&env%5BDATABASE_URL%5D=Enter Database Url&env%5BMENU_IMG%5D=https%3A%2F%2Fbandaheali-cdn.koyeb.app%2Fbandaheali%2Fteam.jpg&env%5BOWNER_NUMBER%5D=Team-bandaheali&env%5BSTATUS_REPLY_MSG%5D=Hello+from+bandaheali">
     <img src="https://img.shields.io/badge/DEPLOY%20TO-KOYEB-00A0DC?style=for-the-badge&logo=koyeb&logoColor=white">
   </a>
 </p>
